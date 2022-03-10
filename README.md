@@ -1,21 +1,17 @@
-# Work Day Scheduler Starter Code
-User Story
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+# Third-Party APIs Challenge: Work Day Scheduler
+
+## Description 
+The purpose of this project was to create a daily planner for to help me with my busy work schedule. I need the ability to add important events to a daily planner in order to manage my time effectively. When the planner is opened the current time and date is set at the top. As I scroll down the page I am presented with time blocks and for each hour during my time at work (9am-5pm). Time blocks are color coded to show past, future and current time windows. When I click on a block I am able to insert, edit and save the text to local storage so that it is still available to me after I refresh the page.
+
+## Screenshot
 
 
-Acceptance Criteria
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+## Links
+Deployed Application: 
+
+Github Repository: 
+
+## Credits
+This project, as part of my course work with Trilogy Education Services, was clone from the GitHub user Xanderomus (https://github.com/Xandromus). Xanderomus  
+
+
