@@ -7,7 +7,7 @@ The purpose of this project was to create a daily planner for to help me with my
 ![Screenshot 2022-03-09 203951](https://user-images.githubusercontent.com/97137083/157570285-179d7c5b-5d65-4a84-9c03-8c4cd03e36aa.png)
 
 ## Links
-Deployed Application: 
+Deployed Application: https://ek33450505.github.io/Work-Day-Scheduler/
 
 Github Repository: https://github.com/ek33450505/Work-Day-Scheduler
 
