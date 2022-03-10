@@ -1,4 +1,4 @@
-// Display today's day and date
+// Display today's day of the week and date
 var todayDate = moment().format('dddd, MMM Do YYYY');
 $("#currentDay").html(todayDate);
 
@@ -21,7 +21,7 @@ $(document).ready(function () {
         $(".time-block").each(function () {
             var blockTime = parseInt($(this).attr("id").split("hour")[1]);
 
-            // To check the time and add the classes for background indicators
+            // To check the time and add the classes for background colors
             if (blockTime < timeNow) {
                 $(this).removeClass("future");
                 $(this).removeClass("present");
